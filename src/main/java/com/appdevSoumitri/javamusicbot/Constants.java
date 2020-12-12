@@ -25,5 +25,5 @@ public class Constants {
     // API helpers
     public static final String media_url = "https://www.youtube.com/watch?v=";
     public static final String query_api = "https://youtube.googleapis.com/youtube/v3/search?maxResults=4&order=relevance&q=";
-    public static final String api_key = "YOUTUBE_API_KEY";
+    public static final String api_key = "&key=YOUTUBE_API_KEY";
 }
